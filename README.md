@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c++,python,scikitlearn,tensorflow,pytorch,keras,opencv,html,css,bootstrap,django,mysql,git,github,azure,arduino,raspberrypi,vscode,pycharm,anaconda,linux"/>
+    <img src="https://skillicons.dev/icons?i=cpp,python,tensorflow,pytorch,html,css,bootstrap,django,mysql,git,github,azure,arduino,raspberrypi,vscode,pycharm,anaconda,linux,ros,bash"/>
   </a>
 </p>
 

@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Shaownak/shaownak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c++,python,scikitlearn,tensorflow,pytorch,keras,opencv,pynltk,html,css,bootstrap,django,mysql,git,github,azure,arduino,raspberrypi,vscode,pycharm,anaconda,linux"/>
+    <img src="https://skillicons.dev/icons?i=c++,python,scikitlearn,tensorflow,pytorch,keras,opencv,html,css,bootstrap,django,mysql,git,github,azure,arduino,raspberrypi,vscode,pycharm,anaconda,linux"/>
   </a>
 </p>
 

@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Shaownak Shahriar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Shaownak Shahriar | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
+<br/>
 
 ### Languages and Tools:
 

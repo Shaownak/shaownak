@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 
 ##### BIO
 
-- 🏢 I'm currently working as Machine Vision Engineer at BRACU Duburi [https://www.facebook.com/bracuduburi] and BRACU Mongol-Tori [http://www.bracu-mongoltori.com/]
+- 🏢 I'm currently working as Machine Vision Engineer at BRACU Duburi [duburi] and BRACU Mongol-Tori [mongoltori].
 - ⚙️ I have expertise in `Artificial Intelligence`, `Machine Learning`, `Deep Learning`, `Computer Vision`, `Natural Language Processing`, `Robotics` and `Software Development`.  
 - 🌍 I'm also a Competitive Programmer. I've solved about 800 problems in different online judges including Codeforces, Atcoder, LeetCode.
 - 💅 Worked with Self Driving Cars and Rover Autonomy.
-- 🌱 Learning all about **Artificial Intelligence**
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+- 🌱 Learning all about **Artificial Intelligence**.
+- ⚡️ Fun fact: I'm a huge fan of Harry Potter.
 
 ### Connect with me:
 
@@ -49,3 +49,5 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/ss_shahriar99
 [facebook]: https://www.facebook.com/shaownak.sahriar/
 [linkedin]: https://www.linkedin.com/in/shaownak-shahriar/
+[duburi]: https://www.facebook.com/bracuduburi
+[mongoltori]: http://www.bracu-mongoltori.com/

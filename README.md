@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🏢 I'm currently working as Machine Vision Engineer at [BRACU Duburi] and [BRACU Mongol-Tori].
 - ⚙️ I have expertise in `Artificial Intelligence`, `Machine Learning`, `Deep Learning`, `Computer Vision`, `Natural Language Processing`, `Robotics` and `Software Development`.  
 - 🌍 I'm also a Competitive Programmer. I've solved about 800 problems in different online judges including Codeforces, Atcoder, LeetCode.
-- 💅 Worked with Self Driving Cars, Rover Autonomy, Robot Vision and Robotics Control System.
+- 💅 Worked with **Self Driving Cars**, **Rover Autonomy**, **Robot Vision** and **Robotics Control System**.
 - 🌱 Learning all about **Artificial Intelligence**.
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter.
 

@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 ##### BIO
 
-- 🏢 I'm currently working as Machine Vision Engineer at [BRACU Duburi] and [BRACU Mongol-Tori].
+- 🏢 Currently working as Autonomous Systems Engineer at [Dubotech Digital Limited]
+- 👔 Wroked as Machine Vision Engineer at [BRACU Duburi] and [BRACU Mongol-Tori].
 - ⚙️ I have expertise in `Artificial Intelligence`, `Machine Learning`, `Deep Learning`, `Computer Vision`, `Natural Language Processing`, `Robotics` and `Software Development`.  
 - 🌍 I'm also a Competitive Programmer. I've solved about 800 problems in different online judges including Codeforces, Atcoder, LeetCode.
 - 💅 Worked with **Self Driving Cars**, **Rover Autonomy**, **Robot Vision** and **Robotics Control System**.
@@ -53,3 +54,4 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/shaownak-shahriar/
 [BRACU Duburi]: https://www.facebook.com/bracuduburi
 [BRACU Mongol-Tori]: http://www.bracu-mongoltori.com/
+[Dubotech Digital Limited]: https://www.dubotech.com/

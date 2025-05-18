@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ### Hi there, I am Shaownak Shahriar! 👋
 
-#### I'm a student, Computer Vision Engineer.
+#### I'm a Computer Vision Engineer.
 
 ##### BIO
 
-- 🏢 Currently working as Autonomous Systems Engineer at [Dubotech Digital Limited]
+- 🏢 Worked as Autonomous Systems Engineer at [Dubotech Digital Limited]
 - 👔 Wroked as Machine Vision Engineer at [BRACU Duburi] and [BRACU Mongol-Tori].
 - ⚙️ I have expertise in `Artificial Intelligence`, `Machine Learning`, `Deep Learning`, `Computer Vision`, `Natural Language Processing`, `Robotics` and `Software Development`.  
 - 🌍 I'm also a Competitive Programmer. I've solved about 800 problems in different online judges including Codeforces, Atcoder, LeetCode.
